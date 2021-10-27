@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Kyau1
-- 👀 I’m interested in Lua
+- 👋 Hi, I’m @Kyau1 
+-  🔒 I have a Discord Dev Server: https://discord.gg/eUXg3y6CMV
